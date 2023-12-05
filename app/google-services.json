@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714633058659",
+    "project_id": "autenticacion-kotlin-751c7",
+    "storage_bucket": "autenticacion-kotlin-751c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714633058659:android:79549a99a71c8e6dea9b56",
+        "android_client_info": {
+          "package_name": "pe.idat.semana11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBark6MQLTx-QZOgI6kdal9xbUjHnQ9hfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
