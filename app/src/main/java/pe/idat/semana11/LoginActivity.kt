@@ -32,6 +32,9 @@ class LoginActivity : AppCompatActivity() {
                         task->
                         if(task.isSuccessful){
                             Toast.makeText(this,"Usuario o clave correctos",Toast.LENGTH_SHORT).show()
+                            val intent = Intent(applicationContext, MainActivity::class.java)
+                            startActivity(intent)
+                            finish()
                         }else{
                             Toast.makeText(this,"Usuario o clave invalidos",Toast.LENGTH_SHORT).show()
                         }
